@@ -1,5 +1,6 @@
-##How to run the test
-####To run test please execute in command line:
+## How to run the test
+
+#### To run test please execute in command line:
 
 ```mvn clean test```
 
