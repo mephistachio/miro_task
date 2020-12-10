@@ -17,7 +17,7 @@ import java.util.UUID;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class MiroUserLoginTest {
+public class MiroStickerCreationTest {
 
     @BeforeEach
     public void setUp() {
