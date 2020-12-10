@@ -1,17 +1,15 @@
 package com.miro.task.params;
 
 
-
 public class BoardParams {
 
     private String boardTitle;
-    private String boardDescription;
 
 
-    public BoardParams(String boardTitle, String boardDescription) {
+    public BoardParams(String boardTitle) {
 
         this.boardTitle = boardTitle;
-        this.boardDescription = boardDescription;
+
     }
 
 
@@ -19,5 +17,4 @@ public class BoardParams {
         return boardTitle;
     }
 
-    public String getDescription(){ return boardDescription;}
 }
